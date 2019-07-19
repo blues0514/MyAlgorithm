@@ -24,3 +24,12 @@ public class Max {
 
     }
 }
+/*
+---- 구하는 과정 ----
+1. max에 a 값을 넣는다.
+2. b 값이 max보다 크면 max에 b값을 넣는다.
+3. c 값이 max보다 크면 max에 c값을 넣는다.
+
+--> 여러 문장(프로세스)이 순차적으로 실행되는 구조 = 순차적(concatenation) 구조
+    if문 = 선택(selection) 구조
+ */
