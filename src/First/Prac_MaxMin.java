@@ -1,6 +1,6 @@
 package First;
 
-public class Practice {
+public class Prac_MaxMin {
     static int max4(int a, int b, int c, int d) {
         int max = a;
         if (b > max) {
