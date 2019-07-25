@@ -23,11 +23,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="1750" />
-    <option name="height" value="980" />
-  </component>
   <component name="ProjectId" id="1OUd55ch6evq7xZURcImuc3qA0p" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -48,9 +43,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseArrayProcess">
-    <configuration name="CloneArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Data_Structure.CloneArray" />
+  <component name="RunManager" selected="Application.ArrayCopy">
+    <configuration name="ArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data_Structure.ArrayCopy" />
+      <module name="MyAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Data_Structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data_Structure.ArrayEqual" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -101,26 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maxOf_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Data_Structure.maxOf_method" />
-      <module name="MyAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Data_Structure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayCopy" />
+        <item itemvalue="Application.ArrayEqual" />
         <item itemvalue="Application.ReverseArrayProcess" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.MaxOfArrayRandom" />
-        <item itemvalue="Application.maxOf_method" />
-        <item itemvalue="Application.CloneArray" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564037970260</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add ReverseArray code [ADD]">
+      <created>1564041017250</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1564041017250</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +200,7 @@
     <MESSAGE value="Add Figure code [ADD] + [Finish First Package]" />
     <MESSAGE value="Add Data Structure code [ADD]" />
     <MESSAGE value="Add maxOf_method code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add maxOf_method code [ADD]" />
+    <MESSAGE value="Add ReverseArray code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ReverseArray code [ADD]" />
   </component>
 </project>
