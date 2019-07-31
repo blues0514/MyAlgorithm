@@ -57,7 +57,7 @@ public class DayOfYear {
             int day = scanner.nextInt();
 
             System.out.printf("그 해 %d일째 입니다.\n", dayOfYear2(year, month, day)); //dayOfYear(year, month, day)
-            System.out.printf("그 해의 남은 일 수는 %d일 입니다\n", leftDayOfYear(year,month,day));
+            System.out.printf("그 해의 남은 일 수는 %d일 입니다\n", leftDayOfYear(year, month, day));
 
             System.out.print("한 번 더 할까요? (1.예 / 0.아니오) : ");
             retry = scanner.nextInt();
