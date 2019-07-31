@@ -43,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CardConvProcess">
+  <component name="RunManager" selected="Application.PrimeNum">
     <configuration name="ArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Data_Structure.ArrayCopy" />
       <module name="MyAlgorithm" />
@@ -96,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArrayProcess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Data_Structure.ReverseArrayProcess" />
+    <configuration name="PrimeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data_Structure.PrimeNum" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNum" />
         <item itemvalue="Application.CardConvProcess" />
         <item itemvalue="Application.CardConvRev" />
         <item itemvalue="Application.ArrayCopy" />
         <item itemvalue="Application.ArrayEqual" />
-        <item itemvalue="Application.ReverseArrayProcess" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564044078534</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add CardConv code [ADD]">
+      <created>1564046306796</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1564046306796</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,7 +201,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -209,6 +218,7 @@
     <MESSAGE value="Add maxOf_method code [ADD]" />
     <MESSAGE value="Add ReverseArray code [ADD]" />
     <MESSAGE value="Add ArrayEqual,ArrayCopy code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ArrayEqual,ArrayCopy code [ADD]" />
+    <MESSAGE value="Add CardConv code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add CardConv code [ADD]" />
   </component>
 </project>
