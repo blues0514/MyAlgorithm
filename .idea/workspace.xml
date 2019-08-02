@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Search_03/BInarySearchTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search_03/BInarySearchTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Search_03/Id.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Search_03/IdTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search_03/IdTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,9 +46,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BInarySearchTester">
+  <component name="RunManager" selected="Application.IdTester">
     <configuration name="BInarySearchTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Search_03.BInarySearchTester" />
+      <module name="MyAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Search_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search_03.IdTester" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -98,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeqSearchSen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search_03.SeqSearchSen" />
-      <module name="MyAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Search_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IdTester" />
         <item itemvalue="Application.BInarySearchTester" />
         <item itemvalue="Application.Prac_BinSearchX" />
         <item itemvalue="Application.SearchIdx" />
         <item itemvalue="Application.Prac_SeqScanning" />
-        <item itemvalue="Application.SeqSearchSen" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564729343790</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add binarySearch code [ADD]">
+      <created>1564731705533</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1564731705533</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,6 +291,7 @@
     <MESSAGE value="Add SeqSearch code [ADD]" />
     <MESSAGE value="Add BinSearch code [ADD]" />
     <MESSAGE value="Add BinSearch + Prac code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BinSearch + Prac code [ADD]" />
+    <MESSAGE value="Add binarySearch code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add binarySearch code [ADD]" />
   </component>
 </project>
