@@ -2,120 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Digits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/JudgeSign.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Max.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Median.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Multi99Table.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Prac_Digits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Prac_MultiTable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Prac_Pyramid.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Prac_Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Prac_Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Prac_Sum1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Prac_Sum3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/SumFor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/SumForPos.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/SumWhile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/TriangleLB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure_02/CloneArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure_02/IntArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure_02/MaxOfArrayRandom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure_02/PrimeNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure_02/PrimeNum2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure_02/maxOf_method.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Search_03/BinSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Search_03/Prac_BinScanning.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Search_03/Prac_BinSearchX.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Search_03/Prac_SeqScanning.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Search_03/SearchIdx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Search_03/SeqSearchSen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search_03/Prac_BinScanning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search_03/Prac_BinSearchX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search_03/Prac_SeqScanning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search_03/SearchIdx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Search_03/BInarySearchTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search_03/BInarySearchTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Digits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/JudgeSign.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Max.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Max2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Max2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Median.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Multi99Table.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Prac_Digits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Prac_MaxMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Prac_MaxMin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Prac_MultiTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Prac_Pyramid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Prac_Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Prac_Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Prac_Sum1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Prac_Sum2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Prac_Sum2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Prac_Sum3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Prac_TriangleMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Prac_TriangleMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/Prac_TriangleMethod2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic_01/Prac_TriangleMethod2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/SumFor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/SumForPos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/SumWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Basic/TriangleLB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Class/PhysicalExamination$PhyscData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Class_02/PhysicalExamination$PhyscData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Class/PhysicalExamination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Class_02/PhysicalExamination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Class/YMD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Class_02/YMD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure/ArrayCopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure_02/ArrayCopy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure/ArrayEqual.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure_02/ArrayEqual.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure/CardConvProcess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure_02/CardConvProcess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure/CardConvRev.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure_02/CardConvRev.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure/CloneArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure/DayOfYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure_02/DayOfYear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure/IntArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure/MaxOfArrayRandom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure/PrimeNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure/PrimeNum2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure/PrimeNum3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure_02/PrimeNum3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure_02/ReverseArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure/ReverseArrayProcess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure_02/ReverseArrayProcess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Data_Structure/maxOf_method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Search/BInSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Search/SeqSearchSen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Search/seqSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Search_03/seqSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Digits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/JudgeSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/JudgeSign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Max.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Max2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Max2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Median.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Median.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Multi99Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Multi99Table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Prac_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Prac_Digits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Prac_MaxMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Prac_MaxMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Prac_MultiTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Prac_MultiTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Prac_Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Prac_Pyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Prac_Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Prac_Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Prac_Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Prac_Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Prac_Sum1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Prac_Sum1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Prac_Sum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Prac_Sum2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Prac_Sum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Prac_Sum3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Prac_TriangleMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Prac_TriangleMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/Prac_TriangleMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/Prac_TriangleMethod2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/SumFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/SumFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/SumForPos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/SumForPos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/SumWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/SumWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/TriangleLB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic_01/TriangleLB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class/PhysicalExamination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_02/PhysicalExamination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class/YMD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_02/YMD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/ArrayCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure_02/ArrayCopy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/ArrayEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure_02/ArrayEqual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/CardConvProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure_02/CardConvProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/CardConvRev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure_02/CardConvRev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/CloneArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure_02/CloneArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/DayOfYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure_02/DayOfYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/IntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure_02/IntArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/MaxOfArrayRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure_02/MaxOfArrayRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/PrimeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure_02/PrimeNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/PrimeNum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure_02/PrimeNum2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/PrimeNum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure_02/PrimeNum3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure_02/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/ReverseArrayProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure_02/ReverseArrayProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Data_Structure/maxOf_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Data_Structure_02/maxOf_method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/BInSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search_03/BinSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/SeqSearchSen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search_03/SeqSearchSen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Search/seqSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search_03/seqSearch.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -156,9 +45,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Prac_BinSearchX">
-    <configuration name="BinSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search_03.BinSearch" />
+  <component name="RunManager" selected="Application.BInarySearchTester">
+    <configuration name="BInarySearchTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search_03.BInarySearchTester" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -224,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BInarySearchTester" />
         <item itemvalue="Application.Prac_BinSearchX" />
         <item itemvalue="Application.SearchIdx" />
         <item itemvalue="Application.Prac_SeqScanning" />
         <item itemvalue="Application.SeqSearchSen" />
-        <item itemvalue="Application.BinSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564725930974</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add BinSearch + Prac code [ADD]">
+      <created>1564729343790</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1564729343790</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -386,6 +282,7 @@
     <MESSAGE value="Add Package_Class code [ADD]" />
     <MESSAGE value="Add SeqSearch code [ADD]" />
     <MESSAGE value="Add BinSearch code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BinSearch code [ADD]" />
+    <MESSAGE value="Add BinSearch + Prac code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BinSearch + Prac code [ADD]" />
   </component>
 </project>
