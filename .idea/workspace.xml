@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Search/seqSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Search/seqSearch.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Search/seqSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/seqSearch.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,13 +44,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SeqSearchSen">
-    <configuration name="DayOfYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Two.Data_Structure.DayOfYear" />
+  <component name="RunManager" selected="Application.BInSearch">
+    <configuration name="BInSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search.BInSearch" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Two.Data_Structure.*" />
+          <option name="PATTERN" value="Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BInSearch" />
         <item itemvalue="Application.SeqSearchSen" />
         <item itemvalue="Application.seqSearch" />
         <item itemvalue="Application.YMD" />
         <item itemvalue="Application.PhysicalExamination" />
-        <item itemvalue="Application.DayOfYear" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564723114854</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add SeqSearch code [ADD]">
+      <created>1564724262408</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1564724262408</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

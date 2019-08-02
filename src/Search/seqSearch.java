@@ -2,7 +2,11 @@ package Search;
 
 import java.util.Scanner;
 
-// 선형 검색
+/*
+ 선형 검색
+ 배열의 요솟수가 n개 일때 검색 실패,성공 판단하는 횟수 평균 n/2회
+ 원하는 값이 배열에 존재하지 않을 때, 실패의 경우 n+1회 , 성공의 경우 n회
+ */
 public class seqSearch {
 
     // 요솟수가 n인 배열 a에서 key와 같은 요소를 선형 검색
