@@ -17,9 +17,9 @@ public class seqSearch {
     }
 
     // for문을 이용 -> while문 보다 문장의 길이가 비교적 짧아진다.
-    static int seqSearch2(int[] a , int n, int key) {
-        for(int i =0; i<a.length; i++) {
-            if(a[i] == key) return i; // 검색 성공
+    static int seqSearch2(int[] a, int n, int key) {
+        for (int i = 0; i < a.length; i++) {
+            if (a[i] == key) return i; // 검색 성공
         }
         return -1;
     }
@@ -40,7 +40,7 @@ public class seqSearch {
         int ky = scanner.nextInt();
         int idx = seqSearch2(x, num, ky); // 배열 x에서 키 값이 ky인 요소를 검색
 
-        if(idx == -1) System.out.println("그 값의 요소가 없습니다.");
-        else System.out.println(ky +"은(는) x[" + idx + "]에 있습니다.");
+        if (idx == -1) System.out.println("그 값의 요소가 없습니다.");
+        else System.out.println(ky + "은(는) x[" + idx + "]에 있습니다.");
     }
 }

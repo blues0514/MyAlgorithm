@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Search/seqSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search/seqSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Search/seqSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Search/seqSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/seqSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Search/seqSearch.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.seqSearch">
+  <component name="RunManager" selected="Application.SeqSearchSen">
     <configuration name="DayOfYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Two.Data_Structure.DayOfYear" />
       <module name="MyAlgorithm" />
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Two.Data_Structure.PrimeNum3" />
+    <configuration name="SeqSearchSen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search.SeqSearchSen" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Two.Data_Structure.*" />
+          <option name="PATTERN" value="Search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SeqSearchSen" />
         <item itemvalue="Application.seqSearch" />
         <item itemvalue="Application.YMD" />
         <item itemvalue="Application.PhysicalExamination" />
         <item itemvalue="Application.DayOfYear" />
-        <item itemvalue="Application.PrimeNum3" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564562115906</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add SeqSearch code [ADD]">
+      <created>1564723114854</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1564723114854</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,6 +259,7 @@
     <MESSAGE value="Add PrimeNum code [ADD]" />
     <MESSAGE value="Add DayOfYear code [ADD]" />
     <MESSAGE value="Add Package_Class code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Package_Class code [ADD]" />
+    <MESSAGE value="Add SeqSearch code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add SeqSearch code [ADD]" />
   </component>
 </project>
