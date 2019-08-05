@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +41,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PhysExamSearch">
+  <component name="RunManager" selected="Application.GenericClassTester">
     <configuration name="BInarySearchTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Search_03.BInarySearchTester" />
+      <module name="MyAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Search_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericClassTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search_03.GenericClassTester" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -96,26 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchIdx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search_03.SearchIdx" />
-      <module name="MyAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Search_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericClassTester" />
         <item itemvalue="Application.PhysExamSearch" />
         <item itemvalue="Application.IdTester" />
         <item itemvalue="Application.BInarySearchTester" />
         <item itemvalue="Application.Prac_BinSearchX" />
-        <item itemvalue="Application.SearchIdx" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564732647772</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Add Comparator code [ADD]">
+      <created>1564993296450</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1564993296450</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +302,7 @@
     <MESSAGE value="Add BinSearch + Prac code [ADD]" />
     <MESSAGE value="Add binarySearch code [ADD]" />
     <MESSAGE value="Add InstanceMethod code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add InstanceMethod code [ADD]" />
+    <MESSAGE value="Add Comparator code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Comparator code [ADD]" />
   </component>
 </project>
