@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Queue_Stack_04/Stack_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue_Stack_04/Gstack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue_Stack_04/IntStackTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue_Stack_04/IntStackX.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue_Stack_04/IntStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue_Stack_04/IntStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue_Stack_04/Stack_Methods.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericClassTester">
+  <component name="RunManager" selected="Application.IntStackTester">
     <configuration name="BInarySearchTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Search_03.BInarySearchTester" />
       <module name="MyAlgorithm" />
@@ -84,6 +88,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IntStackTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue_Stack_04.IntStackTester" />
+      <module name="MyAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Queue_Stack_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PhysExamSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Search_03.PhysExamSearch" />
       <module name="MyAlgorithm" />
@@ -97,26 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prac_BinSearchX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search_03.Prac_BinSearchX" />
-      <module name="MyAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Search_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntStackTester" />
         <item itemvalue="Application.GenericClassTester" />
         <item itemvalue="Application.PhysExamSearch" />
         <item itemvalue="Application.IdTester" />
         <item itemvalue="Application.BInarySearchTester" />
-        <item itemvalue="Application.Prac_BinSearchX" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564995139992</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add StackMethod code [ADD]">
+      <created>1565069381411</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1565069381412</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,6 +333,7 @@
     <MESSAGE value="Add Comparator code [ADD]" />
     <MESSAGE value="Add GenericClass code [ADD]" />
     <MESSAGE value="Add IntStack code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add IntStack code [ADD]" />
+    <MESSAGE value="Add StackMethod code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add StackMethod code [ADD]" />
   </component>
 </project>
