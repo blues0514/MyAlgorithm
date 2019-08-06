@@ -37,7 +37,7 @@ public class IntQueue {
         return x;
     }
 
-    public int dequeue() throws EmptyIntQueueException {
+    public int deque() throws EmptyIntQueueException {
         if (num <= 0)
             throw new EmptyIntQueueException();
         int x = que[front++];
@@ -87,8 +87,15 @@ public class IntQueue {
             System.out.println("큐가 비어 있습니다.");
         else {
             for (int i = 0; i < num; i++)
-                System.out.println(que[(i + front) & max] + " ");
+                System.out.print(que[(i + front) % max] + " ");
             System.out.println();
         }
+    }
+
+    public int search(int x) {
+        for (int i = 0; i < num; i++)
+            if (que[(i + front) % max] == x) // 검색성공
+                return i + 1;
+        return 0; // 검색실패
     }
 }
