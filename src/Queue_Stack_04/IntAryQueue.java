@@ -5,13 +5,13 @@ public class IntAryQueue {
     private int num; // 현재 데이터 수
     private int[] que; // 큐 본체
 
-    public class EmptyIntQueueException extends RuntimeException {
-        public EmptyIntQueueException() {
+    public class EmptyIntAryQueueException extends RuntimeException {
+        public EmptyIntAryQueueException() {
         }
     }
 
-    public class OverflowIntQueueException extends RuntimeException {
-        public OverflowIntQueueException() {
+    public class OverflowIntAryQueueException extends RuntimeException {
+        public OverflowIntAryQueueException() {
         }
     }
 
@@ -25,34 +25,26 @@ public class IntAryQueue {
         }
     }
 
-    public int enque(int x) throws OverflowIntQueueException {
+    public int enque(int x) throws OverflowIntAryQueueException {
         if (num >= max)
-            throw new OverflowIntQueueException();
+            throw new OverflowIntAryQueueException();
         que[num++] = x;
         return x;
     }
-
-    public int deque() throws EmptyIntQueueException {
+    // 큐에서 데이터를 디큐
+    public int deque() throws EmptyIntAryQueueException {
         if (num <= 0)
-            throw new EmptyIntQueueException();
-        int x = que[num--];
+            throw new EmptyIntAryQueueException(); // 큐가 비어 있음
+        int x = que[0];
+        for (int i = 0; i < num - 1; i++)
+            que[i] = que[i + 1];
+        num--;
         return x;
     }
 
-    // 큐에서 데이터를 디큐
-//    public int deque() throws EmptyIntAryQueueException {
-//        if (num <= 0)
-//            throw new EmptyIntAryQueueException(); // 큐가 비어 있음
-//        int x = que[0];
-//        for (int i = 0; i < num - 1; i++)
-//            que[i] = que[i + 1];
-//        num--;
-//        return x;
-//    }
-
-    public int peek() throws EmptyIntQueueException {
+    public int peek() throws EmptyIntAryQueueException {
         if (num <= 0)
-            throw new EmptyIntQueueException();
+            throw new EmptyIntAryQueueException();
         return que[num - 1];
     }
 

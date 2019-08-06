@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Queue_Stack_04/IntAryQueue.java" afterDir="false" />
+    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="Add IntAryQueue code [ADD]">
+      <change afterPath="$PROJECT_DIR$/src/Queue_Stack_04/IntQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue_Stack_04/IntAryQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue_Stack_04/IntAryQueue.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -299,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565072410506</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Add IntAryQueue code [ADD]">
+      <created>1565075379282</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1565075379282</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -338,6 +346,7 @@
     <MESSAGE value="Add IntStack code [ADD]" />
     <MESSAGE value="Add StackMethod code [ADD]" />
     <MESSAGE value="Add Stack code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Stack code [ADD]" />
+    <MESSAGE value="Add IntAryQueue code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add IntAryQueue code [ADD]" />
   </component>
 </project>
