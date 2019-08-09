@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Recursive_05/EightQueen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Recursive_05/QueenB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Recursive_05/QueenBB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursive_05/EightQueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursive_05/QueenB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursive_05/QueenBB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursive_05/Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursive_05/Hanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Recursive_05/Hanoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Recursive_05/Hanoi.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,9 +55,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Hanoi">
-    <configuration name="EuclidGCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursive_05.EuclidGCD" />
+  <component name="RunManager" selected="Application.EightQueen">
+    <configuration name="EightQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursive_05.EightQueen" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -76,6 +82,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QueenB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursive_05.QueenB" />
+      <module name="MyAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursive_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueenBB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursive_05.QueenBB" />
+      <module name="MyAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursive_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Recur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursive_05.Recur" />
       <module name="MyAlgorithm" />
@@ -89,39 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recur2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursive_05.Recur2" />
-      <module name="MyAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursive_05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Recur3_05_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursive_05.Recur3_05_05" />
-      <module name="MyAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursive_05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EightQueen" />
+        <item itemvalue="Application.QueenBB" />
+        <item itemvalue="Application.QueenB" />
         <item itemvalue="Application.Hanoi" />
         <item itemvalue="Application.Recur" />
-        <item itemvalue="Application.Recur3_05_05" />
-        <item itemvalue="Application.Recur2" />
-        <item itemvalue="Application.EuclidGCD" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565331536014</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Add Hanoi move2 Method code [ADD]">
+      <created>1565332653421</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1565332653421</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -370,7 +383,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Data Structure code [ADD]" />
     <MESSAGE value="Add maxOf_method code [ADD]" />
     <MESSAGE value="Add ReverseArray code [ADD]" />
     <MESSAGE value="Add ArrayEqual,ArrayCopy code [ADD]" />
@@ -395,6 +407,7 @@
     <MESSAGE value="Add Recursive code [ADD]" />
     <MESSAGE value="Add Recur code [ADD]" />
     <MESSAGE value="Add Hanoi code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Hanoi code [ADD]" />
+    <MESSAGE value="Add Hanoi move2 Method code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Hanoi move2 Method code [ADD]" />
   </component>
 </project>
