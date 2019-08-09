@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Recursive_05/Hanoi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Recursive_05/Recur3_05_05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursive_05/Hanoi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Recursive_05/Recur.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Recursive_05/Recur.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursive_05/Recur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursive_05/Recur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursive_05/Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursive_05/Hanoi.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Recur">
+  <component name="RunManager" selected="Application.Hanoi">
     <configuration name="EuclidGCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursive_05.EuclidGCD" />
       <module name="MyAlgorithm" />
@@ -121,9 +117,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hanoi" />
         <item itemvalue="Application.Recur" />
         <item itemvalue="Application.Recur3_05_05" />
-        <item itemvalue="Application.Hanoi" />
         <item itemvalue="Application.Recur2" />
         <item itemvalue="Application.EuclidGCD" />
       </list>
@@ -350,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565330196733</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Add Hanoi code [ADD]">
+      <created>1565331536014</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1565331536014</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -367,7 +370,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Figure code [ADD] + [Finish First Package]" />
     <MESSAGE value="Add Data Structure code [ADD]" />
     <MESSAGE value="Add maxOf_method code [ADD]" />
     <MESSAGE value="Add ReverseArray code [ADD]" />
@@ -392,6 +394,7 @@
     <MESSAGE value="Add IntDeque code [ADD]" />
     <MESSAGE value="Add Recursive code [ADD]" />
     <MESSAGE value="Add Recur code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Recur code [ADD]" />
+    <MESSAGE value="Add Hanoi code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Hanoi code [ADD]" />
   </component>
 </project>
