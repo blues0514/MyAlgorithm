@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Recursive_05/Hanoi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Recursive_05/Recur3_05_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursive_05/Hanoi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Recursive_05/EuclidGCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Recursive_05/EuclidGCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Recursive_05/Recur.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Recursive_05/Recur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursive_05/Recur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursive_05/Recur.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +34,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Recursive_05" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\intel-workspace\MyAlgorithm\src\Recursive_05" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Recur2">
+  <component name="RunManager" selected="Application.Recur">
     <configuration name="EuclidGCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursive_05.EuclidGCD" />
       <module name="MyAlgorithm" />
@@ -58,25 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursive_05.Factorial" />
+    <configuration name="Hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursive_05.Hanoi" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Recursive_05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntQueueTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue_Stack_04.IntQueueTester" />
-      <module name="MyAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Queue_Stack_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Recur3_05_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursive_05.Recur3_05_05" />
+      <module name="MyAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursive_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Recur2" />
         <item itemvalue="Application.Recur" />
+        <item itemvalue="Application.Recur3_05_05" />
+        <item itemvalue="Application.Hanoi" />
+        <item itemvalue="Application.Recur2" />
         <item itemvalue="Application.EuclidGCD" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.IntQueueTester" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565170015294</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Add Recur code [ADD]">
+      <created>1565330196733</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1565330196733</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,7 +367,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Loop code [ADD]" />
     <MESSAGE value="Add Figure code [ADD] + [Finish First Package]" />
     <MESSAGE value="Add Data Structure code [ADD]" />
     <MESSAGE value="Add maxOf_method code [ADD]" />
@@ -376,6 +391,7 @@
     <MESSAGE value="Add IntQueueTest code [ADD]" />
     <MESSAGE value="Add IntDeque code [ADD]" />
     <MESSAGE value="Add Recursive code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Recursive code [ADD]" />
+    <MESSAGE value="Add Recur code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Recur code [ADD]" />
   </component>
 </project>
