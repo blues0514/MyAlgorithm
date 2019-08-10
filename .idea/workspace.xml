@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/BubbleSort2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/BubbleSort_print.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort_06/BubbleSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort_06/BubbleSort_print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +30,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Recursive_05" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Sort_06" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\intel-workspace\MyAlgorithm\src\Recursive_05" />
     </key>
@@ -52,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort2">
+  <component name="RunManager" selected="Application.BubbleSort3">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_06.BubbleSort" />
       <module name="MyAlgorithm" />
@@ -68,6 +65,19 @@
     </configuration>
     <configuration name="BubbleSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_06.BubbleSort2" />
+      <module name="MyAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sort_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSort3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_06.BubbleSort3" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -105,26 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueenBB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursive_05.QueenBB" />
-      <module name="MyAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursive_05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort3" />
         <item itemvalue="Application.BubbleSort2" />
         <item itemvalue="Application.BubbleSort_print" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.EightQueen" />
-        <item itemvalue="Application.QueenBB" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565430061897</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Add BubbleSort2 code [ADD]">
+      <created>1565431422349</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1565431422349</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,7 +405,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add ArrayEqual,ArrayCopy code [ADD]" />
     <MESSAGE value="Add CardConv code [ADD]" />
     <MESSAGE value="Add PrimeNum code [ADD]" />
     <MESSAGE value="Add DayOfYear code [ADD]" />
@@ -426,6 +429,7 @@
     <MESSAGE value="Add Hanoi move2 Method code [ADD]" />
     <MESSAGE value="Add EightQueen code [ADD]" />
     <MESSAGE value="Add Sort Package , BubbleSort code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Sort Package , BubbleSort code [ADD]" />
+    <MESSAGE value="Add BubbleSort2 code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BubbleSort2 code [ADD]" />
   </component>
 </project>
