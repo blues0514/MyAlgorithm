@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="" />
+    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/ShakerSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort_06/ShakerSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/BubbleSort_print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/BubbleSort_print.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort_06/BubbleSort_print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort_06/BubbleSort_print.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort3">
+  <component name="RunManager" selected="Application.ShakerSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_06.BubbleSort" />
       <module name="MyAlgorithm" />
@@ -102,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EightQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursive_05.EightQueen" />
+    <configuration name="ShakerSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_06.ShakerSort" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursive_05.*" />
+          <option name="PATTERN" value="Sort_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShakerSort" />
+        <item itemvalue="Application.BubbleSort_print" />
         <item itemvalue="Application.BubbleSort3" />
         <item itemvalue="Application.BubbleSort2" />
-        <item itemvalue="Application.BubbleSort_print" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.EightQueen" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +394,21 @@
       <option name="project" value="LOCAL" />
       <updated>1565431422349</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Add BubbleSort3 code [ADD]">
+      <created>1565431976896</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1565431976896</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Add BubbleSort_print code [ADD]">
+      <created>1565432076512</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1565432076512</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -405,8 +425,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add CardConv code [ADD]" />
-    <MESSAGE value="Add PrimeNum code [ADD]" />
     <MESSAGE value="Add DayOfYear code [ADD]" />
     <MESSAGE value="Add Package_Class code [ADD]" />
     <MESSAGE value="Add SeqSearch code [ADD]" />
@@ -430,6 +448,8 @@
     <MESSAGE value="Add EightQueen code [ADD]" />
     <MESSAGE value="Add Sort Package , BubbleSort code [ADD]" />
     <MESSAGE value="Add BubbleSort2 code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BubbleSort2 code [ADD]" />
+    <MESSAGE value="Add BubbleSort3 code [ADD]" />
+    <MESSAGE value="Add BubbleSort_print code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BubbleSort_print code [ADD]" />
   </component>
 </project>
