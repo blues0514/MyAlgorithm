@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/ShakerSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort_06/ShakerSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/BubbleSort_print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/BubbleSort_print.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort_06/BubbleSort_print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort_06/BubbleSort_print.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,20 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShakerSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_06.BubbleSort" />
-      <module name="MyAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sort_06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SelectionSort">
     <configuration name="BubbleSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_06.BubbleSort2" />
       <module name="MyAlgorithm" />
@@ -108,6 +91,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_06.SelectionSort" />
+      <module name="MyAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sort_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ShakerSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_06.ShakerSort" />
       <module name="MyAlgorithm" />
@@ -123,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.ShakerSort" />
         <item itemvalue="Application.BubbleSort_print" />
         <item itemvalue="Application.BubbleSort3" />
         <item itemvalue="Application.BubbleSort2" />
-        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565432076512</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Add BubbleSort_print, ShakerSort code [ADD]">
+      <created>1565516200954</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1565516200954</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -425,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add DayOfYear code [ADD]" />
     <MESSAGE value="Add Package_Class code [ADD]" />
     <MESSAGE value="Add SeqSearch code [ADD]" />
     <MESSAGE value="Add BinSearch code [ADD]" />
@@ -450,6 +452,7 @@
     <MESSAGE value="Add BubbleSort2 code [ADD]" />
     <MESSAGE value="Add BubbleSort3 code [ADD]" />
     <MESSAGE value="Add BubbleSort_print code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BubbleSort_print code [ADD]" />
+    <MESSAGE value="Add BubbleSort_print, ShakerSort code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BubbleSort_print, ShakerSort code [ADD]" />
   </component>
 </project>
