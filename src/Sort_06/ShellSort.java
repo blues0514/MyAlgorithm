@@ -9,17 +9,44 @@ import java.util.Scanner;
 
 정렬할 배열의 요소를 그룹으로 나눠 각 그룹별로 단순 삽입 정렬을 수행하고, 그 그룹을 합치면서 정렬을 반복하여 요소의
 이동횟수를 줄이는 방법
+시간 복잡도 : O(n^1.25)
+안정적이지는 않다.
  */
 public class ShellSort {
     static void shellSort(int[] a, int n) {
+        int count=0; // 옮김 횟수
         for (int h = n / 2; h > 0; h /= 2)
             for (int i = h; i < n; i++) {
                 int j;
                 int tmp = a[i];
-                for (j = i - h; j >= 0 && a[j] > tmp; j -= h)
+                for (j = i - h; j >= 0 && a[j] > tmp; j -= h) {
                     a[j + h] = a[j];
+                    count++;
+                }
                 a[j + h] = tmp;
+                count++;
             }
+
+        System.out.println("옮김 횟수 : " + count);
+    }
+
+    static void shellSort2(int[] a, int n) {
+        int count = 0;
+        int h;
+        for (h = 1; h < n / 9; h = h * 3 + 1) ;
+
+        for (; h > 0; h /= 3)
+            for (int i = h; i < n; i++) {
+                int j;
+                int tmp = a[i];
+                for (j = i - h; h >= 0 && a[j] > tmp; j -= h) {
+                    a[j + h] = a[j];
+                    count++;
+                }
+                a[j + h] = tmp;
+                count++;
+            }
+        System.out.println("옮김 횟수 : " + count);
     }
 
     public static void main(String[] args) {
