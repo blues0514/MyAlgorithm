@@ -25,6 +25,18 @@ public class InsertionSort {
         }
     }
 
+    // 단순삽입정렬(보초법：배열의 머리요소는 비어있습니다.)
+    static void selectionSort_Sen(int[] a, int n) {
+        for (int i = 2; i < n; i++) {
+            int tmp = a[0] = a[i];
+            int j = i;
+            for (; a[j - 1] > tmp; j--)
+                a[j] = a[j - 1];
+            if (j > 0)
+                a[j] = tmp;
+        }
+    }
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
