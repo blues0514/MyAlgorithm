@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="Add BinInsertionSort, sen code [ADD]">
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/BinaryInsertionSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort_06/BinaryInsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort_06/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort_06/InsertionSort.java" afterDir="false" />
-    </list>
+    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryInsertionSort">
+  <component name="RunManager" selected="Application.ShellSort">
     <configuration name="BinaryInsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_06.BinaryInsertionSort" />
       <module name="MyAlgorithm" />
@@ -108,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShakerSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_06.ShakerSort" />
+    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_06.ShellSort" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShellSort" />
         <item itemvalue="Application.BinaryInsertionSort" />
         <item itemvalue="Application.SelectionSort_print" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.ShakerSort" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565519785743</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Add BinInsertionSort, senInsertion code [ADD]">
+      <created>1565592877314</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1565592877314</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -453,7 +454,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add BinSearch + Prac code [ADD]" />
     <MESSAGE value="Add binarySearch code [ADD]" />
     <MESSAGE value="Add InstanceMethod code [ADD]" />
     <MESSAGE value="Add Comparator code [ADD]" />
@@ -478,6 +478,7 @@
     <MESSAGE value="Add SelectionSort code [ADD]" />
     <MESSAGE value="Add InsertionSort code [ADD]" />
     <MESSAGE value="Add SelectionSort_print code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add SelectionSort_print code [ADD]" />
+    <MESSAGE value="Add BinInsertionSort, senInsertion code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BinInsertionSort, senInsertion code [ADD]" />
   </component>
 </project>
