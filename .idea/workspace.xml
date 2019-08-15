@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/Partition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort_06/Partition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort_06/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/ShellSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort_06/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort_06/ShellSort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShellSort">
+  <component name="RunManager" selected="Application.Partition">
     <configuration name="BinaryInsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_06.BinaryInsertionSort" />
       <module name="MyAlgorithm" />
@@ -80,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_06.SelectionSort" />
+    <configuration name="Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_06.Partition" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Partition" />
         <item itemvalue="Application.ShellSort" />
         <item itemvalue="Application.BinaryInsertionSort" />
         <item itemvalue="Application.SelectionSort_print" />
         <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -448,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565594277251</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Add ShellSortCount code [ADD]">
+      <created>1565596098389</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1565596098389</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -465,7 +474,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add InstanceMethod code [ADD]" />
     <MESSAGE value="Add Comparator code [ADD]" />
     <MESSAGE value="Add GenericClass code [ADD]" />
     <MESSAGE value="Add IntStack code [ADD]" />
@@ -490,6 +498,7 @@
     <MESSAGE value="Add SelectionSort_print code [ADD]" />
     <MESSAGE value="Add BinInsertionSort, senInsertion code [ADD]" />
     <MESSAGE value="Add ShellSort code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ShellSort code [ADD]" />
+    <MESSAGE value="Add ShellSortCount code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ShellSortCount code [ADD]" />
   </component>
 </project>
