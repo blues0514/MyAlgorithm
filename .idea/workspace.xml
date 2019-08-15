@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort_06/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort_06/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/QuickSort.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
+  <component name="RunManager" selected="Application.Prac_QuickSort">
     <configuration name="BinaryInsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_06.BinaryInsertionSort" />
       <module name="MyAlgorithm" />
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_06.QuickSort" />
+    <configuration name="Prac_QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_06.Prac_QuickSort" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort_print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_06.SelectionSort_print" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_06.QuickSort" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prac_QuickSort" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Partition" />
         <item itemvalue="Application.ShellSort" />
         <item itemvalue="Application.BinaryInsertionSort" />
-        <item itemvalue="Application.SelectionSort_print" />
       </list>
     </recent_temporary>
   </component>
@@ -468,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565854567684</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Add QuickSort3 code [ADD]">
+      <created>1565856476990</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1565856476990</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -485,7 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add IntStack code [ADD]" />
     <MESSAGE value="Add StackMethod code [ADD]" />
     <MESSAGE value="Add Stack code [ADD]" />
     <MESSAGE value="Add IntAryQueue code [ADD]" />
@@ -510,6 +516,7 @@
     <MESSAGE value="Add ShellSortCount code [ADD]" />
     <MESSAGE value="Add Partition code [ADD]" />
     <MESSAGE value="Add QuickSort code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add QuickSort code [ADD]" />
+    <MESSAGE value="Add QuickSort3 code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add QuickSort3 code [ADD]" />
   </component>
 </project>
