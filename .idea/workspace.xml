@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/QuickSort.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +51,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Prac_QuickSort">
-    <configuration name="BinaryInsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_06.BinaryInsertionSort" />
+  <component name="RunManager" selected="Application.MergeArray">
+    <configuration name="MergeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_06.MergeArray" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeArray" />
         <item itemvalue="Application.Prac_QuickSort" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Partition" />
         <item itemvalue="Application.ShellSort" />
-        <item itemvalue="Application.BinaryInsertionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -475,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565856476990</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Add Prac_QuickSort code [ADD]">
+      <created>1565858776274</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1565858776274</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add StackMethod code [ADD]" />
     <MESSAGE value="Add Stack code [ADD]" />
     <MESSAGE value="Add IntAryQueue code [ADD]" />
     <MESSAGE value="Add IntQueue code [ADD]" />
@@ -517,6 +522,7 @@
     <MESSAGE value="Add Partition code [ADD]" />
     <MESSAGE value="Add QuickSort code [ADD]" />
     <MESSAGE value="Add QuickSort3 code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add QuickSort3 code [ADD]" />
+    <MESSAGE value="Add Prac_QuickSort code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Prac_QuickSort code [ADD]" />
   </component>
 </project>
