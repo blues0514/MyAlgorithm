@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sort_06/ArraySortTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/ArraySortTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/PhyscExamSort$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/PhyscExamSort$PhyscData$HeightOrderComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/PhyscExamSort$PhyscData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/PhyscExamSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/SortCalendar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort_06/PhyscExamSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort_06/SortCalendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
+  <component name="RunManager" selected="Application.PhyscExamSort">
     <configuration name="MergeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_06.MergeArray" />
       <module name="MyAlgorithm" />
@@ -78,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_06.Partition" />
+    <configuration name="PhyscExamSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_06.PhyscExamSort" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_06.QuickSort" />
+    <configuration name="SortCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_06.SortCalendar" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhyscExamSort" />
+        <item itemvalue="Application.SortCalendar" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.MergeArray" />
         <item itemvalue="Application.Prac_QuickSort" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.Partition" />
       </list>
     </recent_temporary>
   </component>
@@ -137,13 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Add Loop code [ADD]">
-      <created>1563616231828</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1563616231829</updated>
     </task>
     <task id="LOCAL-00004" summary="Add Figure code [ADD] + [Finish First Package]">
       <created>1563619409411</created>
@@ -481,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565942272800</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Add ArraySortTester code [ADD]">
+      <created>1565942564352</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1565942564352</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -498,7 +506,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add IntQueue code [ADD]" />
     <MESSAGE value="Add IntQueueTest code [ADD]" />
     <MESSAGE value="Add IntDeque code [ADD]" />
     <MESSAGE value="Add Recursive code [ADD]" />
@@ -523,6 +530,7 @@
     <MESSAGE value="Add Prac_QuickSort code [ADD]" />
     <MESSAGE value="Add MergeArray code [ADD]" />
     <MESSAGE value="Add MergeSort code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add MergeSort code [ADD]" />
+    <MESSAGE value="Add ArraySortTester code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ArraySortTester code [ADD]" />
   </component>
 </project>
