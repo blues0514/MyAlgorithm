@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/MergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort_06/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort_06/ArraySortTester.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -139,13 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Add Sum Code [ADD]">
-      <created>1563529072127</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1563529072127</updated>
     </task>
     <task id="LOCAL-00003" summary="Add Loop code [ADD]">
       <created>1563616231828</created>
@@ -483,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565941405445</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Add MergeSort code [ADD]">
+      <created>1565942272799</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1565942272800</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add IntAryQueue code [ADD]" />
     <MESSAGE value="Add IntQueue code [ADD]" />
     <MESSAGE value="Add IntQueueTest code [ADD]" />
     <MESSAGE value="Add IntDeque code [ADD]" />
@@ -525,6 +522,7 @@
     <MESSAGE value="Add QuickSort3 code [ADD]" />
     <MESSAGE value="Add Prac_QuickSort code [ADD]" />
     <MESSAGE value="Add MergeArray code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add MergeArray code [ADD]" />
+    <MESSAGE value="Add MergeSort code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add MergeSort code [ADD]" />
   </component>
 </project>
