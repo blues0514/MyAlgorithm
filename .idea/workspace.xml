@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/HeapSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/PhyscExamSort$PhyscData$VisionROrderComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort_06/HeapSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/PhyscExamSort$PhyscData$HeightOrderComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/PhyscExamSort$PhyscData$HeightOrderComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/PhyscExamSort$PhyscData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/PhyscExamSort$PhyscData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/PhyscExamSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/PhyscExamSort.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,9 +51,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HeapSort">
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_06.HeapSort" />
+  <component name="RunManager" selected="Application.Fsort">
+    <configuration name="Fsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_06.Fsort" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_06.MergeArray" />
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_06.HeapSort" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fsort" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.PhyscExamSort" />
         <item itemvalue="Application.SortCalendar" />
         <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.MergeArray" />
       </list>
     </recent_temporary>
   </component>
@@ -143,13 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Add Data Structure code [ADD]">
-      <created>1563789940906</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1563789940906</updated>
     </task>
     <task id="LOCAL-00006" summary="Add maxOf_method code [ADD]">
       <created>1564037970260</created>
@@ -487,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565944541683</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Add HeapSort code [ADD]">
+      <created>1566035630191</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1566035630191</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add IntDeque code [ADD]" />
     <MESSAGE value="Add Recursive code [ADD]" />
     <MESSAGE value="Add Recur code [ADD]" />
     <MESSAGE value="Add Hanoi code [ADD]" />
@@ -529,6 +522,7 @@
     <MESSAGE value="Add MergeSort code [ADD]" />
     <MESSAGE value="Add ArraySortTester code [ADD]" />
     <MESSAGE value="Add Practice Sort code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Practice Sort code [ADD]" />
+    <MESSAGE value="Add HeapSort code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add HeapSort code [ADD]" />
   </component>
 </project>
