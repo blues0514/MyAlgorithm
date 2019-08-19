@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/Fsort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/Fsort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort_06/Fsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort_06/Fsort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,13 +139,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Add maxOf_method code [ADD]">
-      <created>1564037970260</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1564037970260</updated>
     </task>
     <task id="LOCAL-00007" summary="Add ReverseArray code [ADD]">
       <created>1564041017250</created>
@@ -481,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566035630191</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Add Fsort code [ADD]">
+      <created>1566118983273</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1566118983274</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -498,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Recursive code [ADD]" />
     <MESSAGE value="Add Recur code [ADD]" />
     <MESSAGE value="Add Hanoi code [ADD]" />
     <MESSAGE value="Add Hanoi move2 Method code [ADD]" />
@@ -523,6 +524,7 @@
     <MESSAGE value="Add ArraySortTester code [ADD]" />
     <MESSAGE value="Add Practice Sort code [ADD]" />
     <MESSAGE value="Add HeapSort code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add HeapSort code [ADD]" />
+    <MESSAGE value="Add Fsort code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Fsort code [ADD]" />
   </component>
 </project>
