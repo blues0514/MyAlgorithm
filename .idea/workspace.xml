@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Set_07/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Set_07/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Set_07/IntSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Set_07/ToStringTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Set_07/ToStringTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/Fsort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Sort_06/Fsort.class" afterDir="false" />
-    </list>
+    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ToStringTester">
+  <component name="RunManager" selected="Application.IntSetTester">
     <configuration name="Fsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort_06.Fsort" />
       <module name="MyAlgorithm" />
@@ -84,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhyscExamSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_06.PhyscExamSort" />
+    <configuration name="IntSetTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set_07.IntSetTester" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sort_06.*" />
+          <option name="PATTERN" value="Set_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_06.SortCalendar" />
+    <configuration name="PhyscExamSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_06.PhyscExamSort" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntSetTester" />
         <item itemvalue="Application.ToStringTester" />
         <item itemvalue="Application.Fsort" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.PhyscExamSort" />
-        <item itemvalue="Application.SortCalendar" />
       </list>
     </recent_temporary>
   </component>
@@ -143,13 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Add CardConv code [ADD]">
-      <created>1564046306796</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1564046306796</updated>
     </task>
     <task id="LOCAL-00010" summary="Add PrimeNum code [ADD]">
       <created>1564553916432</created>
@@ -487,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566204130055</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Add ToStringTest code [ADD]">
+      <created>1566285022040</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1566285022041</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,7 +496,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Hanoi code [ADD]" />
     <MESSAGE value="Add Hanoi move2 Method code [ADD]" />
     <MESSAGE value="Add EightQueen code [ADD]" />
     <MESSAGE value="Add Sort Package , BubbleSort code [ADD]" />
@@ -529,6 +520,7 @@
     <MESSAGE value="Add HeapSort code [ADD]" />
     <MESSAGE value="Add Fsort code [ADD]" />
     <MESSAGE value="Add IntSet code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add IntSet code [ADD]" />
+    <MESSAGE value="Add ToStringTest code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ToStringTest code [ADD]" />
   </component>
 </project>
