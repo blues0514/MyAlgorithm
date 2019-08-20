@@ -96,16 +96,35 @@ public class IntSet {
     // 집합 s1과 s2의 합집합을 복사
     public void unionOf(IntSet s1, IntSet s2) {
         copyFrom(s1);
-        for (int i = 0 ; i < s2.num; i++)
+        for (int i = 0; i < s2.num; i++)
             add(s2.set[i]);
     }
 
     // "{a,b,c,}"형식의 문자열로 표현을 바꿈
     public String toString() {
         StringBuffer temp = new StringBuffer("{");
-        for (int i =0; i <num; i++)
+        for (int i = 0; i < num; i++)
             temp.append(set[i] + " ");
         temp.append("}");
         return temp.toString();
+    }
+
+    public boolean isEmpty() {
+        if (num != 0)
+            return false;
+        else
+            return true;
+    }
+
+    public boolean isFull() {
+        if (max == num)
+            return true;
+        else
+            return false;
+    }
+
+    public void clear() {
+        if (num > 0)
+            num = 0;
     }
 }
