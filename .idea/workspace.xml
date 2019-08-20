@@ -139,13 +139,6 @@
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
     </task>
-    <task id="LOCAL-00011" summary="Add PrimeNum code [ADD]">
-      <created>1564556276876</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1564556276876</updated>
-    </task>
     <task id="LOCAL-00012" summary="Add DayOfYear code [ADD]">
       <created>1564558960761</created>
       <option name="number" value="00012" />
@@ -482,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566285415897</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Add class IntSet Method code [ADD]">
+      <created>1566286061875</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1566286061875</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add EightQueen code [ADD]" />
     <MESSAGE value="Add Sort Package , BubbleSort code [ADD]" />
     <MESSAGE value="Add BubbleSort2 code [ADD]" />
     <MESSAGE value="Add BubbleSort3 code [ADD]" />
@@ -524,6 +523,7 @@
     <MESSAGE value="Add IntSet code [ADD]" />
     <MESSAGE value="Add ToStringTest code [ADD]" />
     <MESSAGE value="Add IntSetTest code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add IntSetTest code [ADD]" />
+    <MESSAGE value="Add class IntSet Method code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add class IntSet Method code [ADD]" />
   </component>
 </project>
