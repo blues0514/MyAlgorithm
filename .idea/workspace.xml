@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Set_07/IntSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Set_07/IntSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Set_07/IntSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Set_07/IntSet.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +52,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IntSet">
-    <configuration name="Fsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_06.Fsort" />
+  <component name="RunManager" selected="Application.BFmatch">
+    <configuration name="BFmatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search_08.BFmatch" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sort_06.*" />
+          <option name="PATTERN" value="Search_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_06.HeapSort" />
+    <configuration name="Fsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort_06.Fsort" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BFmatch" />
         <item itemvalue="Application.IntSet" />
         <item itemvalue="Application.IntSetTester" />
         <item itemvalue="Application.ToStringTester" />
         <item itemvalue="Application.Fsort" />
-        <item itemvalue="Application.HeapSort" />
       </list>
     </recent_temporary>
   </component>
@@ -138,13 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Add DayOfYear code [ADD]">
-      <created>1564558960761</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1564558960761</updated>
     </task>
     <task id="LOCAL-00013" summary="Add Package_Class code [ADD]">
       <created>1564562115906</created>
@@ -482,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566286061875</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Add class IntSet Method code [ADD]">
+      <created>1566288149057</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1566288149057</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
