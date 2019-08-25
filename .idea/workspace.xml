@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyAlgorithm/Set_07/IntSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Set_07/IntSet.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BFmatch">
+  <component name="RunManager" selected="Application.IndexOfTester">
     <configuration name="BFmatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Search_08.BFmatch" />
       <module name="MyAlgorithm" />
@@ -66,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort_06.Fsort" />
+    <configuration name="IndexOfTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search_08.IndexOfTester" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sort_06.*" />
+          <option name="PATTERN" value="Search_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IndexOfTester" />
         <item itemvalue="Application.BFmatch" />
         <item itemvalue="Application.IntSet" />
         <item itemvalue="Application.IntSetTester" />
         <item itemvalue="Application.ToStringTester" />
-        <item itemvalue="Application.Fsort" />
       </list>
     </recent_temporary>
   </component>
@@ -138,13 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Add Package_Class code [ADD]">
-      <created>1564562115906</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1564562115906</updated>
     </task>
     <task id="LOCAL-00014" summary="Add SeqSearch code [ADD]">
       <created>1564723114854</created>
@@ -482,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566288149057</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Add BFmatch class code [ADD]">
+      <created>1566641631052</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1566641631053</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Sort Package , BubbleSort code [ADD]" />
     <MESSAGE value="Add BubbleSort2 code [ADD]" />
     <MESSAGE value="Add BubbleSort3 code [ADD]" />
     <MESSAGE value="Add BubbleSort_print code [ADD]" />
@@ -524,6 +522,7 @@
     <MESSAGE value="Add ToStringTest code [ADD]" />
     <MESSAGE value="Add IntSetTest code [ADD]" />
     <MESSAGE value="Add class IntSet Method code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add class IntSet Method code [ADD]" />
+    <MESSAGE value="Add BFmatch class code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BFmatch class code [ADD]" />
   </component>
 </project>
