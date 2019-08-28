@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="" />
+    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +51,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KMPmatch">
+  <component name="RunManager" selected="Application.BMmatch">
     <configuration name="BFmatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Search_08.BFmatch" />
+      <module name="MyAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Search_08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BMmatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search_08.BMmatch" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -89,19 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntSetTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Set_07.IntSetTester" />
-      <module name="MyAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Set_07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="KMPmatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Search_08.KMPmatch" />
       <module name="MyAlgorithm" />
@@ -117,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BMmatch" />
         <item itemvalue="Application.KMPmatch" />
         <item itemvalue="Application.IndexOfTester" />
         <item itemvalue="Application.BFmatch" />
         <item itemvalue="Application.IntSet" />
-        <item itemvalue="Application.IntSetTester" />
       </list>
     </recent_temporary>
   </component>
@@ -135,13 +137,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Add SeqSearch code [ADD]">
-      <created>1564724262408</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1564724262408</updated>
     </task>
     <task id="LOCAL-00016" summary="Add BinSearch code [ADD]">
       <created>1564725930974</created>
@@ -479,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566727118275</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Add KMPmatch code [ADD]">
+      <created>1566728160516</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1566728160516</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add BubbleSort3 code [ADD]" />
     <MESSAGE value="Add BubbleSort_print code [ADD]" />
     <MESSAGE value="Add BubbleSort_print, ShakerSort code [ADD]" />
     <MESSAGE value="Add SelectionSort code [ADD]" />
@@ -521,6 +522,7 @@
     <MESSAGE value="Add class IntSet Method code [ADD]" />
     <MESSAGE value="Add BFmatch class code [ADD]" />
     <MESSAGE value="Add IndexOfTester code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add IndexOfTester code [ADD]" />
+    <MESSAGE value="Add KMPmatch code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add KMPmatch code [ADD]" />
   </component>
 </project>
