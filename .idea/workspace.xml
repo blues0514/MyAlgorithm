@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List_09/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List_09/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List_09/LinkedListTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List_09/LinkedListTester.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,13 +139,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Add binarySearch code [ADD]">
-      <created>1564731705533</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1564731705533</updated>
     </task>
     <task id="LOCAL-00019" summary="Add InstanceMethod code [ADD]">
       <created>1564732647772</created>
@@ -481,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566980116214</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Add LinkedListTester code [ADD]">
+      <created>1566983966729</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1566983966729</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -498,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add SelectionSort code [ADD]" />
     <MESSAGE value="Add InsertionSort code [ADD]" />
     <MESSAGE value="Add SelectionSort_print code [ADD]" />
     <MESSAGE value="Add BinInsertionSort, senInsertion code [ADD]" />
@@ -523,6 +524,7 @@
     <MESSAGE value="Add KMPmatch code [ADD]" />
     <MESSAGE value="Add BMmatch code [ADD]" />
     <MESSAGE value="Add LinkedList Method code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add LinkedList Method code [ADD]" />
+    <MESSAGE value="Add LinkedListTester code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add LinkedListTester code [ADD]" />
   </component>
 </project>
