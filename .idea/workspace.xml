@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/List_09/AryLinkedListTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -137,13 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Add GenericClass code [ADD]">
-      <created>1564993672765</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1564993672765</updated>
     </task>
     <task id="LOCAL-00022" summary="Add IntStack code [ADD]">
       <created>1564995139992</created>
@@ -481,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567065293530</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Add AryLinkedList code [ADD]">
+      <created>1567068665996</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1567068665996</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -498,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add BinInsertionSort, senInsertion code [ADD]" />
     <MESSAGE value="Add ShellSort code [ADD]" />
     <MESSAGE value="Add ShellSortCount code [ADD]" />
     <MESSAGE value="Add Partition code [ADD]" />
@@ -523,6 +523,7 @@
     <MESSAGE value="Add LinkedListTester code [ADD]" />
     <MESSAGE value="Add LinkedList, LinkedListTester code [ADD]" />
     <MESSAGE value="Add LinkedList2, LinkedListTester2 code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add LinkedList2, LinkedListTester2 code [ADD]" />
+    <MESSAGE value="Add AryLinkedList code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add AryLinkedList code [ADD]" />
   </component>
 </project>
