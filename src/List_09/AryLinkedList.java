@@ -190,5 +190,47 @@ public class AryLinkedList<E> {
             ptr = n[ptr].next;
         }
     }
+
+    // comparator c에 의해 서로 같다고 보는 노드를 모두 삭제
+    public void purge(Comparator<? super E> c) {
+        int ptr = head;
+
+        while (ptr != NULL) {
+            int count = 0;
+            int ptr2 = ptr;
+            int pre = ptr;
+
+            while (n[pre].next != NULL) {
+                ptr2 = n[pre].next;
+                if (c.compare(n[ptr].data, n[ptr2].data) == 0) {
+                    remove(ptr2);
+                    count++;
+                } else
+                    pre = ptr2;
+            }
+            if (count == 0)
+                ptr = n[ptr].next;
+            else {
+                int temp = n[ptr].next;
+                remove(ptr);
+                ptr = temp;
+            }
+        }
+        crnt = head;
+    }
+    // 머리부터 n개 뒤 노드의 데이터에 대한 참조를 반환
+    public E retrieve(int n) {
+        int ptr = head;
+
+        while ( n>= 0 && ptr != NULL) {
+            if (n-- == 0) {
+                crnt = ptr;
+                return this.n[ptr].data; // 검색 성공
+            }
+            ptr = this.n[ptr].next; // 뒤쪽노드에 주목
+        }
+        return (null);
+    }
 }
+
 

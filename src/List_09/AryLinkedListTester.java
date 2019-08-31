@@ -65,7 +65,10 @@ public class AryLinkedListTester {
         NEXT("선택 노드로 이동"),
         PRINT_CRNT("선택 노드를 출력"),
         DUMP("모든 노드를 출력"),
-        TERMINATE("종료");
+        TERMINATE("종료"),
+        PURGE_NO("같은 번호의 노드를 삭제"),
+        PURGE_NAME("같은 이름의 노드를 삭제"),
+        RETRIEVE("임의의 노드를 출력");
 
         private final String message;
 
@@ -167,6 +170,24 @@ public class AryLinkedListTester {
 
                 case CLEAR:
                     list.clear();
+                    break;
+
+                case PURGE_NAME:
+                    list.purge(Data.NAME_ORDER);
+                    break;
+
+                case PURGE_NO:
+                    list.purge(Data.NO_ORDER);
+                    break;
+
+                case RETRIEVE:
+                    System.out.print("머리부터 몇 번 쨰 : ");
+                    int no = scanner.nextInt() -1;
+                    ptr = list.retrieve(no);
+                    if (ptr == null)
+                        System.out.println("데이터가 없습니다.");
+                    else
+                        System.out.println("데이터는 " + ptr.toString() + "입니다.");
                     break;
             }
         } while (menu != Menu.TERMINATE);
