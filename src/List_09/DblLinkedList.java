@@ -155,4 +155,46 @@ public class DblLinkedList<E> {
         while (!isEmpty())
             removeFirst();
     }
+
+    // comparator c에 의해 서로 같다고 보는 노드를 모두 삭제
+    public void purge(Comparator<? super E> c) {
+        Node<E> ptr = head.next;
+
+        while (ptr.next != head) {
+            int count = 0;
+            Node<E> ptr2 = ptr;
+            Node<E> pre = ptr;
+
+            while (pre.next != head) {
+                ptr2 = pre.next;
+                if (c.compare(ptr.data, ptr2.data) == 0) {
+                    pre.next = ptr2.next;
+                    count++;
+                } else
+                    pre = ptr2;
+            }
+            if (count == 0)
+                ptr = ptr.next;
+            else {
+                Node<E> temp = ptr;
+                remove(ptr);
+                ptr = temp.next;
+            }
+        }
+        crnt = head;
+    }
+
+    // 머리부터 n개 뒤 노드의 데이터에 대한 참조를 반환
+    public E retrieve(int n) {
+        Node<E> ptr = head.next;
+
+        while (n >= 0 && ptr.next.next != head) {
+            if (n-- == 0) {
+                crnt = ptr;
+                return ptr.data; // 검색성공
+            }
+            ptr = ptr.next; // 뒤쪽노드에 주목
+        }
+        return (null);
+    }
 }
