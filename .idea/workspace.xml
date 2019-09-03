@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree_10/BinTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree_10/BinTree.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,13 +30,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/List_09" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Tree_10" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\intel-workspace\MyAlgorithm\src\Tree_10" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Sort_06" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\intel-workspace\MyAlgorithm\src\Tree_10" />
       <recent name="C:\intel-workspace\MyAlgorithm\src\List_09" />
       <recent name="C:\intel-workspace\MyAlgorithm\src\Recursive_05" />
     </key>
@@ -52,9 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListTester">
-    <configuration name="BFmatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search_08.BFmatch" />
+  <component name="RunManager" selected="Application.BinTreeTester">
+    <configuration name="BMmatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search_08.BMmatch" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -66,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BMmatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search_08.BMmatch" />
+    <configuration name="BinTreeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree_10.BinTreeTester" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Search_08.*" />
+          <option name="PATTERN" value="Tree_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinTreeTester" />
         <item itemvalue="Application.LinkedListTester" />
         <item itemvalue="Application.BMmatch" />
         <item itemvalue="Application.KMPmatch" />
         <item itemvalue="Application.IndexOfTester" />
-        <item itemvalue="Application.BFmatch" />
       </list>
     </recent_temporary>
   </component>
@@ -138,13 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Add Recursive code [ADD]">
-      <created>1565170015294</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1565170015294</updated>
     </task>
     <task id="LOCAL-00030" summary="Add Recur code [ADD]">
       <created>1565330196733</created>
@@ -482,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567408471394</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Add BinTree code [ADD]">
+      <created>1567497509170</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1567497509171</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Prac_QuickSort code [ADD]" />
     <MESSAGE value="Add MergeArray code [ADD]" />
     <MESSAGE value="Add MergeSort code [ADD]" />
     <MESSAGE value="Add ArraySortTester code [ADD]" />
@@ -524,6 +528,7 @@
     <MESSAGE value="Add CircLinkedList code [ADD]" />
     <MESSAGE value="Add DblLinkedList class code [ADD]" />
     <MESSAGE value="Add DblLinkedList, Tester class code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add DblLinkedList, Tester class code [ADD]" />
+    <MESSAGE value="Add BinTree code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BinTree code [ADD]" />
   </component>
 </project>
