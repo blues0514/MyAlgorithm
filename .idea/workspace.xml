@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List_09/DblLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List_09/DblLinkedList.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -139,20 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Add IntQueueTest code [ADD]">
-      <created>1565081151693</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1565081151693</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Add IntDeque code [ADD]">
-      <created>1565081279541</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1565081279541</updated>
     </task>
     <task id="LOCAL-00029" summary="Add Recursive code [ADD]">
       <created>1565170015294</created>
@@ -483,7 +468,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567405233143</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Add DblLinkedList, Tester class code [ADD]">
+      <created>1567408452838</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1567408452838</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Add DblLinkedList, Tester class code [ADD]">
+      <created>1567408471394</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1567408471394</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add QuickSort3 code [ADD]" />
     <MESSAGE value="Add Prac_QuickSort code [ADD]" />
     <MESSAGE value="Add MergeArray code [ADD]" />
     <MESSAGE value="Add MergeSort code [ADD]" />
@@ -525,6 +523,7 @@
     <MESSAGE value="Add AryLinkedList . Tester code [ADD]" />
     <MESSAGE value="Add CircLinkedList code [ADD]" />
     <MESSAGE value="Add DblLinkedList class code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add DblLinkedList class code [ADD]" />
+    <MESSAGE value="Add DblLinkedList, Tester class code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add DblLinkedList, Tester class code [ADD]" />
   </component>
 </project>
