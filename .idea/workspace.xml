@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Hash_11/ChainHash.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree_10/BinTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree_10/BinTree.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,13 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Add Recur code [ADD]">
-      <created>1565330196733</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1565330196733</updated>
     </task>
     <task id="LOCAL-00031" summary="Add Hanoi code [ADD]">
       <created>1565331536014</created>
@@ -487,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567497509171</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Add BinTree, Tester code [ADD]">
+      <created>1567498143729</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1567498143729</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add MergeArray code [ADD]" />
     <MESSAGE value="Add MergeSort code [ADD]" />
     <MESSAGE value="Add ArraySortTester code [ADD]" />
     <MESSAGE value="Add Practice Sort code [ADD]" />
@@ -529,6 +528,7 @@
     <MESSAGE value="Add DblLinkedList class code [ADD]" />
     <MESSAGE value="Add DblLinkedList, Tester class code [ADD]" />
     <MESSAGE value="Add BinTree code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BinTree code [ADD]" />
+    <MESSAGE value="Add BinTree, Tester code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BinTree, Tester code [ADD]" />
   </component>
 </project>
