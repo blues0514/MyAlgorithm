@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Hash_11/ChainHash$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Hash_11/ChainHash.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Hash_11/ChainHashTester$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Hash_11/ChainHashTester$Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Hash_11/ChainHashTester$Menu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Hash_11/ChainHashTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hash_11/ChainHashTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,13 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Add Hanoi move2 Method code [ADD]">
-      <created>1565332653421</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1565332653421</updated>
     </task>
     <task id="LOCAL-00033" summary="Add EightQueen code [ADD]">
       <created>1565336059562</created>
@@ -493,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568010904345</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Add ChainHashTester code [ADD]">
+      <created>1568011243424</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1568011243424</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -510,7 +501,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add ArraySortTester code [ADD]" />
     <MESSAGE value="Add Practice Sort code [ADD]" />
     <MESSAGE value="Add HeapSort code [ADD]" />
     <MESSAGE value="Add Fsort code [ADD]" />
@@ -535,6 +525,7 @@
     <MESSAGE value="Add BinTree code [ADD]" />
     <MESSAGE value="Add BinTree, Tester code [ADD]" />
     <MESSAGE value="Add ChainHash code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ChainHash code [ADD]" />
+    <MESSAGE value="Add ChainHashTester code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ChainHashTester code [ADD]" />
   </component>
 </project>
