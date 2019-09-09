@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94551f3f-e5fd-4c9b-b0d6-0afe1d166478" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hash_11/ChainHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Hash_11/ChainHash$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Hash_11/ChainHash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Hash_11/ChainHashTester$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Hash_11/ChainHashTester$Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Hash_11/ChainHashTester$Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/Hash_11/ChainHashTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash_11/ChainHashTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinTreeTester">
+  <component name="RunManager" selected="Application.ChainHashTester">
     <configuration name="BMmatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Search_08.BMmatch" />
       <module name="MyAlgorithm" />
@@ -84,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IndexOfTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search_08.IndexOfTester" />
+    <configuration name="ChainHashTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hash_11.ChainHashTester" />
       <module name="MyAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Search_08.*" />
+          <option name="PATTERN" value="Hash_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChainHashTester" />
         <item itemvalue="Application.BinTreeTester" />
         <item itemvalue="Application.LinkedListTester" />
         <item itemvalue="Application.BMmatch" />
         <item itemvalue="Application.KMPmatch" />
-        <item itemvalue="Application.IndexOfTester" />
       </list>
     </recent_temporary>
   </component>
@@ -143,13 +149,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563517638786</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Add Hanoi code [ADD]">
-      <created>1565331536014</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1565331536014</updated>
     </task>
     <task id="LOCAL-00032" summary="Add Hanoi move2 Method code [ADD]">
       <created>1565332653421</created>
@@ -487,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567498143729</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Add ChainHash code [ADD]">
+      <created>1568010904345</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1568010904345</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,7 +510,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add MergeSort code [ADD]" />
     <MESSAGE value="Add ArraySortTester code [ADD]" />
     <MESSAGE value="Add Practice Sort code [ADD]" />
     <MESSAGE value="Add HeapSort code [ADD]" />
@@ -529,6 +534,7 @@
     <MESSAGE value="Add DblLinkedList, Tester class code [ADD]" />
     <MESSAGE value="Add BinTree code [ADD]" />
     <MESSAGE value="Add BinTree, Tester code [ADD]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BinTree, Tester code [ADD]" />
+    <MESSAGE value="Add ChainHash code [ADD]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ChainHash code [ADD]" />
   </component>
 </project>
